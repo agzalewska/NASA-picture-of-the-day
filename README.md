@@ -2,4 +2,6 @@ This project uses the popular NASA Astronomy Picture of the Day to produce wonde
 
 The app uses responsive design to be both mobile and desktop friendly. 
 
-API 
+An open API used for this froject: 
+
+https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY

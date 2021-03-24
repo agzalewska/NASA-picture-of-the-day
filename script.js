@@ -6,9 +6,8 @@ const loader = document.querySelector('.loader');
 
 // NASA API
 const count = 10;
-const apiKey = 'DEMO_KEY';
+const apiKey = 'NwbBE1JrO1cznPdFgsDUUh8HxgzKqc2qfakgnKqJ';
 const apiUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}&count=${count}`;
-// const apiUrl = `https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&page=2&api_key=${apiKey}&count=${count}`;
 
 let resultsArray = [];
 let favorites = {};

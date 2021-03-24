@@ -8,4 +8,4 @@ https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 
 Live demo: 
 
-nasa-apod-application.netlify.app
+https://nasa-apod-application.netlify.app/

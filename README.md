@@ -5,3 +5,7 @@ The app uses responsive design to be both mobile and desktop friendly.
 An open API used for this froject: 
 
 https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+
+Live demo: 
+
+nasa-apod-application.netlify.app

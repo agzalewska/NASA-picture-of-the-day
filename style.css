@@ -91,6 +91,7 @@ body {
 
 .card-body {
   padding: 20px;
+  text-align: justify;
 }
 
 .card-title {

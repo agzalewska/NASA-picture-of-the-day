@@ -2,9 +2,9 @@ This project uses the popular NASA Astronomy Picture of the Day open API to prod
 
 The app uses responsive design to be both mobile and desktop friendly. 
 
-An open API used for this froject: 
+HTTP Request
 
-https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+GET https://api.nasa.gov/planetary/apod
 
 from: 
 

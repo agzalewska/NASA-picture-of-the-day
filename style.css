@@ -23,7 +23,7 @@ body {
 
 /* Loader */
 .loader {
-  background: whitesmoke;
+  background: rgb(174, 229, 255);
   height: 100vh;
   width: 100vw;
   position: fixed;

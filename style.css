@@ -5,7 +5,12 @@ html {
 body {
   margin: 0;
   /* background: whitesmoke; */
-  background-image: linear-gradient(to bottom, #4543c7, #00063d);
+  background-image: linear-gradient(
+      to bottom,
+      rgba(62, 32, 230, 0.7),
+      rgba(12, 0, 68, 0.6)
+    ),
+    url(twinkle.gif);
   overflow-x: hidden;
   font-family: Verdana, sans-serif;
   font-size: 1rem;
